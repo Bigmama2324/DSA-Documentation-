@@ -19,7 +19,7 @@ The primary data source is Google, cargo, textbook, magazines xorculars and othe
      2. Data Munching
      3. 
 - SQL Server (For Querying 
-- Power BI (for creating report)
+- Power BI [Download] (for creating report)
 - Ms Power Point (for presentation)
   
 ### Data cleaning and Preparation 
@@ -41,6 +41,9 @@ EDA involved the exploring of data to answer some questions about the data suxh 
 This is where we include some basic lines of code or queries or even some of the Dax expression used suring your analysis 
 
 
-
+***  SQL
+SELECT A,B,C
+WHERE A> 15
+***
 
 
