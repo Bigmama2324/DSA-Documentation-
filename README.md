@@ -12,7 +12,7 @@ This is a project aimed at e-commerce performance in the general market. This is
 The primary data source is Google, cargo, textbook, magazines xorculars and others
 
 ### Tools Used 
-- Ms Excel cleaning [Download Here](https://www.microsofr.com)
+- Ms Excel cleaning [Download Here](https://www.microsoft.com)
    - For data collection
    - For data cleaning
      1. Data Manipulation
